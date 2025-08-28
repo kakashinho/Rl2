@@ -1,5 +1,4 @@
-# Rl2
-# 📝 RL1: Sistema de Cadastro de Clientes
+# 📝 RL2: Sistema de Cadastro de Clientes
 
 ## 📚 Descrição da Atividade
 
