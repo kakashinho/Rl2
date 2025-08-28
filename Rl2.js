@@ -228,7 +228,7 @@ adicionarCliente(
 
 function ordenar(clientes){
     let lista = clientes.slice() //criando uma cópia
-    lista = lista.sort((a, b) => a.getNome().localeCompare(b.getNome()));
+    lista = lista.sort((a, b) => a.getNomeMinusculo().localeCompare(b.getNomeMinusculo()));
     // a e b representa dois clientes sendo comparado da lista e localeCompare faz comparação de string
     return lista 
 }
